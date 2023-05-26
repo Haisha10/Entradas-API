@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "category": "General",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "category": "Adulto Mayor",
+    "price": 17
+  },
+  {
+    "id": 3,
+    "category": "Martes",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "category": "Socio",
+    "price": 13.5
+  }
+]
